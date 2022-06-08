@@ -38,8 +38,8 @@ export default {
       url: "https://apps.apple.com/au/app/neds-sport-race-betting/id1263814273",
     },
     {
-      title: "Project Three", //Project Title - Add Your Project Title Here
-      description: "Design",
+      title: "DrinkDao", //Project Title - Add Your Project Title Here
+      description: "Web3",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
@@ -47,8 +47,8 @@ export default {
       url: "http://google.com/",
     },
     {
-      title: "Project Four", //Project Title - Add Your Project Title Here
-      description: "Marketing",
+      title: "Nft Drop", //Project Title - Add Your Project Title Here
+      description: "Web3",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
