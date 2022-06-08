@@ -20,22 +20,22 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
-      description: "Web Design",
+      title: "Ladbrokes", 
+      description: "React Native Developer",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "http://google.com/",
+      url: "https://apps.apple.com/au/app/ladbrokes-online-betting/id710375963/",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
-      description: "Web Development",
+      title: "Neds", //Project Title - Add Your Project Title Here
+      description: "React Native Developer",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "http://google.com/",
+      url: "https://apps.apple.com/au/app/neds-sport-race-betting/id1263814273",
     },
     {
       title: "Project Three", //Project Title - Add Your Project Title Here
