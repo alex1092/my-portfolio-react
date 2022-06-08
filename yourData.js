@@ -2,7 +2,7 @@ export default {
 
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Alex",
   headerTaglineOne: "Hello 📿",
   headerTaglineTwo:
     "I'm Alex - Developer based in Brisbane, Australia. ",
