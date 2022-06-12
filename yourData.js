@@ -1,9 +1,10 @@
+/* eslint-disable import/no-anonymous-default-export */
 export default {
 
 
   //   Header Details ---------------------
   name: "Alex",
-  headerTaglineOne: "Hello 📿",
+  headerTaglineOne: "Welcome 👋",
   headerTaglineTwo:
     "I'm Alex - Developer based in Brisbane, Australia. ",
 
@@ -63,24 +64,24 @@ export default {
 
   services: [
     {
-      title: "Native Development",
+      title: "React Native ",
       description:
-        "Merchant and pirate were for a long period one and the same person. Even today mercantile morality is really nothing but a refinement of piratical morality.",
+        "I have experience building native apps with React Native. I have created a number of apps for the app store.",
     },
     {
       title: "Design Systems",
       description:
-        "ahoy arrrrrr matey boat land luber Hearties Avast Ye Bilge-Sucking Hands Yardarm",
+        "I spearheaded the creation of a number of components and patterns for the Entains design system.",
     },
     {
       title: "Web Design",
       description:
-      "Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich.",
+      "Im passionate about web design in general and love to create beautiful and functional websites.",
     },
     {
-      title: "Web Development",
+      title: "Full Stack Development",
       description:
-        "Pirate’s code: First freedom and the captain. Second the loot, third woman and the rum and at the end no mercy if they not immediately surrender!",
+        "Ive developed a number of full stack applications with React, Node, and Express.",
     },
   ],
 
@@ -88,7 +89,7 @@ export default {
 
   // About Secton --------------
   aboutpara:
-    "Well blow me down? Take what you can, give nothing back Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich. And that was done without a single drop of rum… Arrrrrrrr My mom would not let me see the pirate movie because it was rated rrrrr.",
+    "I am a full stack developer specialising in react native with a passion for building beautiful and functional websites and applications. I have a background in design and I love to create beautiful and functional websites. I have a passion for learning new technologies and I am always looking to learn new things.",
   //   End About Section ---------------------
 };
 
