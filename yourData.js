@@ -39,13 +39,13 @@ export default {
       url: "https://apps.apple.com/au/app/neds-sport-race-betting/id1263814273",
     },
     {
-      title: "DrinkDao", //Project Title - Add Your Project Title Here
-      description: "Web3",
+      title: "Alex", //Project Title - Add Your Project Title Here
+      description: "Made with thirdweb and js",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "http://google.com/",
+      url: "https://quiet-cassata-289ba6.netlify.app/",
     },
     {
       title: "Nft Drop", //Project Title - Add Your Project Title Here
@@ -74,9 +74,9 @@ export default {
         "I spearheaded the creation of a number of components and patterns for the Entains design system.",
     },
     {
-      title: "Web Design",
+      title: "Web3",
       description:
-      "Im passionate about web design in general and love to create beautiful and functional websites.",
+      "Im passionate about web3 and really think that It's the future of web",
     },
     {
       title: "Full Stack Development",
