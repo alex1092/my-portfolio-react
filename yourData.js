@@ -58,7 +58,7 @@ export default {
       imageSrc:
         "https://drive.google.com/uc?export=download&id=1aRZQfM-cgecf7zaZ67Ks59EEah0UxY9N",
       //Project URL - Add Your Project Url Here
-      url: "http://https://ethereum.org/en/.com/",
+      url: "https://ethereum.org/en/",
     },
   ],
 
