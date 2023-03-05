@@ -1,19 +1,23 @@
 /* eslint-disable import/no-anonymous-default-export */
 export default {
-
-
   //   Header Details ---------------------
   name: "Alex",
   headerTaglineOne: "Welcome 👋",
-  headerTaglineTwo:
-    "I'm Alex - Developer based in Brisbane, Australia. ",
+  headerTaglineTwo: "I'm Alex - Developer based in Brisbane, Australia. ",
 
   socials: [
     { title: "Github", link: "https://github.com/alex1092" },
-    { title: "LinkedIn", link: "https://www.linkedin.com/in/alex-little-5772b51a0/" },
+    {
+      title: "LinkedIn",
+      link: "https://www.linkedin.com/in/alex-little-5772b51a0/",
+    },
     { title: "Twitter", link: "https://twitter.com/alittle1092" },
     // { title: "Blog", link: "https://blog.chetanverma.com/" },
     { title: "Email", link: "mailto:alittle1092@gmail.com" },
+    {
+      title: "Resume",
+      link: "https://standardresume.co/r/v2nb7lKm3qYGeZrEchlmn",
+    },
   ],
 
   // End Header Details -----------------------
@@ -21,7 +25,7 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Ladbrokes", 
+      title: "Ladbrokes",
       description: "React Native Developer",
       //Project Image - Add Your Project Image Here
       imageSrc:
@@ -62,34 +66,33 @@ export default {
 
   // Services Section ---------------
 
-  services: [
-    {
-      title: "React Native ",
-      description:
-        "I have experience building native apps with React Native. I have created a number of apps for the app store.",
-    },
-    {
-      title: "Design Systems",
-      description:
-        "I spearheaded the creation of a number of components and patterns for the Entains design system.",
-    },
-    {
-      title: "Web3",
-      description:
-      "Im passionate about web3 and really think that It's the future of web",
-    },
-    {
-      title: "Full Stack Development",
-      description:
-        "Ive developed a number of full stack applications with React, Node, and Express.",
-    },
-  ],
+  // services: [
+  //   {
+  //     title: "React Native ",
+  //     description:
+  //       "I have experience building native apps with React Native. I have created a number of apps for the app store.",
+  //   },
+  //   {
+  //     title: "Design Systems",
+  //     description:
+  //       "I spearheaded the creation of a number of components and patterns for the Entains design system.",
+  //   },
+  //   {
+  //     title: "Web3",
+  //     description:
+  //       "Im passionate about web3 and really think that It's the future of web",
+  //   },
+  //   {
+  //     title: "Full Stack Development",
+  //     description:
+  //       "Ive developed a number of full stack applications with React, Node, and Express.",
+  //   },
+  // ],
 
   // End Services Section --------------------------
 
   // About Secton --------------
   aboutpara:
-    "I am a full stack developer specialising in react native with a passion for building beautiful and functional websites and applications. I have a background in design and I love to create beautiful and functional websites. I have a passion for learning new technologies and I am always looking to learn new things.",
+    "Experienced Software Engineer highly skilled in React Native, React, and JavaScript and Go. Adept in delivering high-quality products and staying current with industry advancements. Passionate about building great products and working with a team of like-minded people.",
   //   End About Section ---------------------
 };
-
