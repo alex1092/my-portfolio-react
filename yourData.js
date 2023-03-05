@@ -26,7 +26,7 @@ export default {
   projects: [
     {
       title: "Ladbrokes",
-      description: "React Native Developer",
+      description: "Core React Native Developer",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
@@ -35,7 +35,7 @@ export default {
     },
     {
       title: "Neds", //Project Title - Add Your Project Title Here
-      description: "React Native Developer",
+      description: "Core React Native Developer",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
@@ -43,8 +43,8 @@ export default {
       url: "https://apps.apple.com/au/app/neds-sport-race-betting/id1263814273",
     },
     {
-      title: "Alex", //Project Title - Add Your Project Title Here
-      description: "Made with thirdweb and js",
+      title: "WiseSheets", //Project Title - Add Your Project Title Here
+      description: "Founding memeber and developer for WiseSheets",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
@@ -53,12 +53,12 @@ export default {
     },
     {
       title: "Eth Org", //Project Title - Add Your Project Title Here
-      description: "Ethereum",
+      description: "Contributor for the Ethereum website",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://drive.google.com/uc?export=download&id=1aRZQfM-cgecf7zaZ67Ks59EEah0UxY9N",
       //Project URL - Add Your Project Url Here
-      url: "http://google.com/",
+      url: "http://https://ethereum.org/en/.com/",
     },
   ],
 
