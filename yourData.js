@@ -52,11 +52,11 @@ export default {
       url: "https://quiet-cassata-289ba6.netlify.app/",
     },
     {
-      title: "Nft Drop", //Project Title - Add Your Project Title Here
-      description: "Web3",
+      title: "Eth Org", //Project Title - Add Your Project Title Here
+      description: "Ethereum",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://drive.google.com/uc?export=download&id=1aRZQfM-cgecf7zaZ67Ks59EEah0UxY9N",
       //Project URL - Add Your Project Url Here
       url: "http://google.com/",
     },
