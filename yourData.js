@@ -12,7 +12,6 @@ export default {
       link: "https://www.linkedin.com/in/alex-little-5772b51a0/",
     },
     { title: "Twitter", link: "https://twitter.com/alittle1092" },
-    // { title: "Blog", link: "https://blog.chetanverma.com/" },
     { title: "Email", link: "mailto:alittle1092@gmail.com" },
     {
       title: "Resume",
@@ -29,34 +28,34 @@ export default {
       description: "Core React Native Developer",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://drive.google.com/uc?export=download&id=1ZAQfMxt3g02Iry4BAHlZfFgH30Dy4mQU",
       //Project URL - Add Your Project Url Here
       url: "https://apps.apple.com/au/app/ladbrokes-online-betting/id710375963/",
+    },
+    {
+      title: "WiseSheets", //Project Title - Add Your Project Title Here
+      description: "Full Stack Developer",
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://drive.google.com/uc?export=download&id=1F0BqxaF9n4Z9TCkYWmJolZfu92mZhihl",
+      //Project URL - Add Your Project Url Here
+      url: "https://wisesheets.io/",
     },
     {
       title: "Neds", //Project Title - Add Your Project Title Here
       description: "Core React Native Developer",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://drive.google.com/uc?export=download&id=1mN-YgT-GzPyQF7elFz_qtUXy23X3EDSQ",
       //Project URL - Add Your Project Url Here
       url: "https://apps.apple.com/au/app/neds-sport-race-betting/id1263814273",
-    },
-    {
-      title: "WiseSheets", //Project Title - Add Your Project Title Here
-      description: "Founding memeber and developer for WiseSheets",
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "https://quiet-cassata-289ba6.netlify.app/",
     },
     {
       title: "Eth Org", //Project Title - Add Your Project Title Here
       description: "Contributor for the Ethereum website",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://drive.google.com/uc?export=download&id=1aRZQfM-cgecf7zaZ67Ks59EEah0UxY9N",
+        "https://drive.google.com/uc?export=download&id=1xESQZBuDcvgPbeodEbV5sG9eiM1U3WXi",
       //Project URL - Add Your Project Url Here
       url: "https://ethereum.org/en/",
     },
@@ -69,8 +68,8 @@ export default {
   // services: [
   //   {
   //     title: "React Native ",
-  //     description:
-  //       "I have experience building native apps with React Native. I have created a number of apps for the app store.",
+  //   //   description:
+  //   //     "I have experience building native apps with React Native. I have created a number of apps for the app store.",
   //   },
   //   {
   //     title: "Design Systems",
