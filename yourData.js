@@ -2,8 +2,8 @@
 export default {
   //   Header Details ---------------------
   name: "Alex",
-  headerTaglineOne: "Welcome 👋",
-  headerTaglineTwo: "I'm Alex - Developer based in Brisbane, Australia. ",
+  headerTaglineOne: "Hello",
+  headerTaglineTwo: "I'm Alex - a full stack developer from Australia",
 
   socials: [
     { title: "Github", link: "https://github.com/alex1092" },
