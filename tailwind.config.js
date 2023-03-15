@@ -6,8 +6,8 @@ module.exports = {
   theme: {
     screens: {
       mob: "375px",
-      laptop: "1024px",
-      laptopl: "1440px",
+      laptop: "800px",
+      laptopl: "1024px",
       desktop: "1280px",
     },
     extend: {},

@@ -4,6 +4,7 @@ import Header from "../components/Header";
 import ServiceCard from "../components/ServiceCard";
 import Socials from "../components/Socials";
 import WorkCard from "../components/WorkCard";
+import { motion } from "framer-motion";
 
 // Local Data
 import data from "../yourData";
@@ -36,9 +37,18 @@ export default function Home() {
         handleWorkScroll={handleWorkScroll}
         handleAboutScroll={handleAboutScroll}
       />
-      <div className="laptop:mt-20 mob:mt-10">
-        <h1 className="mt-5 text-8xl mob:text-3xl laptop:text-8xl mob:p-2 text-bold w-4/5 mob:w-full laptop:w-4/5">
-          {data.headerTaglineOne} <br />
+      <div className="mob:mt-10">
+        <h1 className="mt-5 text-8xl  mob:text-3xl laptopl:text-8xl mob:pt-2 laptop:w-4/5 laptopl:w-3/5 mob:w-full">
+          {/* <h1 className="mt-5 text-8xl mob:text-3xl laptop:text-8xl mob:p-2 w-auto text-bold  mob:w-full laptop:w-4/5"> */}
+          {data.headerTaglineOne}
+          <motion.div
+            animate={{ rotate: [0, 15, -20, 20, -20, 20, -15, 0, 0, 0] }}
+            transition={{ delay: 1.5, duration: 2, repeat: Infinity }}
+            style={{ display: "inline-block" }}
+          >
+            👋
+          </motion.div>
+          <br />
           {data.headerTaglineTwo}
         </h1>
         <Socials className="mt-5 mob:mt-2 laptop:mt-5" />
